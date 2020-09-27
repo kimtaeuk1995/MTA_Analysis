@@ -13,7 +13,8 @@ To do so, we will look at MTA subway data as well as NYC Census data such as med
 3. Determine the busiest stations for the month of september
 4. Look at housing value according to zip codes to determine stations with high traffic as well as high income earners
 5. Look at the map to see which of these stations are nearby top tech companies
-6. Determine day of week and specific time for each recommended station
+6. Come up with a list of recommended stations to focus volunteer teams on
+7. Determine day of week and specific time for each recommended station
 
 ## Recommendations:
 

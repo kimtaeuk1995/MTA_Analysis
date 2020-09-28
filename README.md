@@ -14,12 +14,13 @@ To do so, we will look at MTA subway data as well as US Census data such as medi
 ## Our Approach
 
 1. Find zipcodes of NYC stations and census data such as median household income
-2. Find the latitude and longitude of NYC top tech companies and map it on a map
-3. Determine the busiest stations for the month of September
-4. Look at housing value according to zip codes to determine stations with high traffic as well as high income earners
-5. Look at the map to see which of these stations are nearby top tech companies
-6. Come up with a list of recommended stations to focus volunteer teams on
-7. Determine day of week and specific time for each recommended station
+2. Determine the busiest stations for the month of September
+3. Look at housing value according to zip codes to determine stations with high traffic as well as high income earners
+4. See which of the stations also have high women population 
+5. Find the latitude and longitude of NYC top tech companies and map it on a map
+6. Come up with our recommended stations
+7. Visualize on a map to see if recommended stations are nearby top tech companies
+8. Determine day of week and specific time for each recommended station
 
 ## Recommendations:
 
